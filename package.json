@@ -1,0 +1,26 @@
+{
+  "name": "@block/block-text-editor",
+  "version": "0.0.1",
+  "description": "Tiptap based reactJS block text editor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpanpat/block-text-editor.git"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "editor",
+    "rich-text",
+    "tiptap"
+  ],
+  "author": "Darpan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dpanpat/block-text-editor/issues"
+  },
+  "homepage": "https://github.com/dpanpat/block-text-editor#readme"
+}
